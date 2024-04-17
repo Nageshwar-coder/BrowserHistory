@@ -1,0 +1,43 @@
+.listItem {
+    width: 100%;
+    display: flex;
+    align-items: center;
+  }
+  
+  .time {
+    color: #64748b;
+    font-weight: 500;
+    margin-left: 1%;
+  }
+  
+  .domain-logo {
+    width: 30px;
+    margin-left: 5%;
+  }
+  
+  .title {
+    color: #475569;
+    font-weight: 500;
+    margin-left: 3%;
+  }
+  
+  .url {
+    color: #64748b;
+    margin-left: 1%;
+    cursor: pointer;
+  }
+  
+  .deleteButton {
+    margin-left: auto;
+    margin-right: 1%;
+    background-color: transparent;
+    border-width: 0;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  .delete {
+    width: 100%;
+    margin: 0;
+  }
+  
